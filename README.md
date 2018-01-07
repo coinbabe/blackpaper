@@ -1,4 +1,4 @@
 # blackpaper
 Love Lock Chain
 
-- Blackpaper _([Markdown](BLACKPAPER.md))_
+- Coinbabe Blackpaper _([Markdown](BLACKPAPER.md))_
